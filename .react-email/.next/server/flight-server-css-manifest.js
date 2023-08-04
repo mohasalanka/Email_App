@@ -1,0 +1,24 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/home/mohamed/Test/Email App/.react-email/src/app/page": [
+      "/home/mohamed/Test/Email App/.react-email/src/styles/globals.css",
+      "/home/mohamed/Test/Email App/.react-email/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ],
+    "/home/mohamed/Test/Email App/.react-email/src/app/preview/[slug]/page": [
+      "/home/mohamed/Test/Email App/.react-email/src/styles/globals.css",
+      "/home/mohamed/Test/Email App/.react-email/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "/home/mohamed/Test/Email App/.react-email/src/app/page.tsx": [
+    "/home/mohamed/Test/Email App/.react-email/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/home/mohamed/Test/Email App/.react-email/src/styles/globals.css"
+  ],
+  "/home/mohamed/Test/Email App/.react-email/src/app/layout.tsx": [
+    "/home/mohamed/Test/Email App/.react-email/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/home/mohamed/Test/Email App/.react-email/src/styles/globals.css"
+  ],
+  "/home/mohamed/Test/Email App/.react-email/src/app/preview/[slug]/page.tsx": [
+    "/home/mohamed/Test/Email App/.react-email/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/home/mohamed/Test/Email App/.react-email/src/styles/globals.css"
+  ]
+}
